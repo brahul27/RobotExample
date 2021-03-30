@@ -1,2 +1,7 @@
 This repo is all about robot framework sample programs
 adding more data to file for commit
+
+creating new branch robot1.1 from master branch
+create PR and merge code
+
+adding changes to new branch but not in master branch
